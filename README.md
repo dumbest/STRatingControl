@@ -58,6 +58,10 @@ Tells the delegate when the rating is changed.
 
 ## Changelog
 
+### v1.1.0
+
+- Updated for Swift 3.0 
+
 ### v1.0.1
 
 - Added **didSelectRating** delegate method 
